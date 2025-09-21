@@ -1,10 +1,9 @@
 # HJM model with stochastic volatility (CIR)
 
-**This notebook implements a single-factor HJM forward-rate model with CEV scaling and a single mean-reverting stochastic volatility factor, calibrated to caplet and swaption markets.**  
+This notebook implements a single-factor HJM forward-rate model with CEV scaling and a single mean-reverting stochastic volatility factor, calibrated to caplet and swaption markets.
 
----
 
-## Model
+### Model
 
 **Forward-rate SDE (risk-neutral measure $(\mathbb{Q})$):**
 $$
@@ -47,8 +46,6 @@ $$
 $$
 - In practice the integral $\int_t^T \sigma(t,s)\,ds$ is approximated numerically on the model $T$-grid (trapezoid / Simpson).
 
----
-
 Deterministic shape (example parameterisation):
 A simple, calibratable choice used in the code:
 $$
@@ -56,22 +53,9 @@ $$
 $$
 with $a > 0$, $b \ge 0$ exposed as calibration parameters.
 
----
 
-## Parameters exposed (defaults / bounds)
-- $\beta \in [-0.5, 1.5]$ — default: $0.0$  
-- $\delta \ge 0$ — default: $1\times 10^{-4}$  
-- $a \in (0, 1.0]$ — default: $0.02$  
-- $b \in [0, 2.0]$ — default: $0.5$  
-- $\kappa \in [10^{-3}, 10]$ — default: $1.0$  
-- $\theta \in [10^{-4}, 2.0]$ — default: $0.04$  
-- $\xi \in [10^{-4}, 2.0]$ — default: $0.3$  
-- $\rho \in [-0.99, 0.99]$ — default: $-0.5$  
-- $v_0 \in [10^{-6}, 2.0]$ — default: $0.04$
 
----
-
-## Process
+### Process
 
 **1. Configuration & environment**  
    - CONFIG dictionary: random number generator (RNG) seed, MC path counts, grid resolution, weights for swaption vs caplet, file paths.
@@ -111,9 +95,9 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
    - Save: `outputs/calibration_results.json`, `outputs/calibrated_parameters.json`, `outputs/model_vs_market_caplets.csv`, `outputs/model_vs_market_swaptions.csv`.  
    - Plots: ATM caplet fit, ATM swaption surface fit, selected smile comparisons (PNG files under `outputs/plots/`).
 
--------------
-  ABOUT ME
--------------
+
+### ABOUT ME
+
 - I began my python journey 15 weeks ago on 9 June 2025. Today is 21 Sept 2025. 
 - I am seeking to learn python skills to secure the most rewarding finance career opportunities possible. 
 - 20 years total experience in finance with Morgan Stanley, Credit Agricole CIB, Barclays Capital.
