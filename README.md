@@ -1,6 +1,6 @@
 # HJM model with stochastic volatility (CIR)
 
-This notebook implements a single-factor HJM forward-rate model with CEV scaling and a single mean-reverting stochastic volatility factor, calibrated to caplet and swaption markets.
+This notebook implements a demonsrative/illustrative single-factor HJM forward-rate model with CEV scaling and a single mean-reverting stochastic volatility factor, calibrated to caplet and swaption markets.
 
 
 ### Model
