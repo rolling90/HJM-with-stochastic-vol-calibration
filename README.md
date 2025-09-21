@@ -2,10 +2,6 @@
 
 **This notebook implements a single-factor HJM forward-rate model with CEV scaling and a single mean-reverting stochastic volatility factor, calibrated to caplet and swaption markets.**  
 
-It performs a two-stage calibration (ATM term structure → smiles). 
-
-Run the notebook top-to-bottom; change CONFIG for accuracy vs speed.
-
 ---
 
 ## Model
