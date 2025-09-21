@@ -96,7 +96,8 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
    - Plots: ATM caplet fit, ATM swaption surface fit, selected smile comparisons (PNG files under `outputs/plots/`).
 
 
-### ABOUT ME
+---
+### About Me
 
 - I began my python journey 15 weeks ago on 9 June 2025. Today is 21 Sept 2025. 
 - I am seeking to learn python skills to secure the most rewarding finance career opportunities possible. 
