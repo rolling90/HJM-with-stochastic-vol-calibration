@@ -118,7 +118,8 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
 -------------
   ABOUT ME
 -------------
-I began my python journey 15 weeks ago on 9 June 2025. Today is 21 Sept 2025. 
+I began my python journey 15 weeks ago on 9 June 2025. Today is 21 Sept 2025. (\n)
+
 I am seeking to learn python skills to secure the most rewarding finance career opportunities possible.
 20 years total experience in finance with Morgan Stanley, Credit Agricole CIB, Barclays Capital. 
 Former Head of Cross Asset Derivatives Structuring - Rates, FX, Credit, Equities, Commodities.
