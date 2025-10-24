@@ -98,9 +98,6 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
 
 ---
 ### About Me
-
-- I began my python journey 15 weeks ago on 9 June 2025. Today is 21 Sept 2025. 
-- I am seeking to learn python skills to secure the most rewarding finance career opportunities possible. 
-- 20 years total experience in finance with Morgan Stanley, Credit Agricole CIB, Barclays Capital.
-- Former Head of Cross Asset Derivatives Structuring - Rates, FX, Credit, Equities, Commodities.
-- Top year desk PnL $26.5m (I was desk head). Top year individual PnL $15m. 
+- 10 years in cash & derivatives dealing at Barclays Capital, Lloyds Banking Group, and Crédit Agricole CIB
+- Prior derivaives desk head / Deputy Chief Dealer at Credit Agricole CIB, generating $26.5m in desk PnL and $15m in individual PnL in top year.
+- 10 years in non-front office roles at global investment banks - Risk and exotic rates derivatves valuations control.
