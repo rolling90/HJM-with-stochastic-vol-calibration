@@ -98,7 +98,6 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
 
 ---
 ### About Me
-- 20 years' finance experience, of which 14 years in execution trading - macro markets.
+- 20 years' finance experience
 - Prior employers include Morgan Stanley, Deutsche Bank, Barclays Capital, Crédit Agricole CIB.
-- Ex Head of FX & Rates Derivaives Sales-Trading at Credit Agricole CIB.
-- Top year: generated $26.5m desk PnL & $15m individual PnL.
+- 10 years in front office derivatives struturing/trading roles.
