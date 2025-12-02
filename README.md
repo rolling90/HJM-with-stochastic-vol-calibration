@@ -94,10 +94,3 @@ with $a > 0$, $b \ge 0$ exposed as calibration parameters.
 **8. Diagnostics & outputs**  
    - Save: `outputs/calibration_results.json`, `outputs/calibrated_parameters.json`, `outputs/model_vs_market_caplets.csv`, `outputs/model_vs_market_swaptions.csv`.  
    - Plots: ATM caplet fit, ATM swaption surface fit, selected smile comparisons (PNG files under `outputs/plots/`).
-
-
----
-### About Me
-- 20 years' finance experience
-- Prior employers include Morgan Stanley, Deutsche Bank, Barclays Capital, Crédit Agricole CIB.
-- 10 years in front office derivatives struturing/trading roles.
